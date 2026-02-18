@@ -1,1 +1,1 @@
-# Moving Mountains: A to-do list app using Django
+# Moving Mountains: <i> A to-do list app using Django </i>
